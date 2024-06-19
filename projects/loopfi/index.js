@@ -1,4 +1,4 @@
-const { sumTokensExport } = require("./helper/unwrapLPs")
+const { sumTokensExport } = require("../helper/unwrapLPs")
 
 const LOOP_PRELAUNCH = "0xaBEEcB1d3414550B30694bB37ac24CAaD0b82aE9"
 
